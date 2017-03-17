@@ -3,7 +3,7 @@ El desarrollo de Fullestop Lockdown WP plugin,Le puede ayudar a ocultar la URL d
 
 
 === Lock Down Admin ===
-Contributors: 	Fullestop
+Contributors: 	Fullestop,jungla<CODE/>
 Tags:	lockdown, login, rename login, secure, security, website security, hide wp-admin, hide admin, admin security,  Locked Down Admin by Fullestop
 Requires at least: 4.2
 Tested up to: 4.6.1
@@ -11,35 +11,77 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Lock Down Admin plugin secure your WordPress admin panel. It locks the wp-admin url and if this plugin is activated then user can't login in the admin panel using wp-admin/wp-login default URL's.
-
-== Description ==
-Lock Down Admin plugin secure your WordPress admin panel. It locks the wp-admin url and if this plugin is activated then user can't login in the admin panel using wp-admin/wp-login default URL's.
 
 
-== Installation ==
+==Descripción==
 
-= From your WordPress dashboard =
+Lock Down Admin plugin protege su panel de administración de WordPress. Bloquea el wp-admin url y si este complemento está activado, entonces el usuario no puede iniciar sesión en el panel de administración utilizando URLs predeterminadas para wp-admin/wp-login .
 
-1. Visit 'Plugins > Add New'
-2. Search for 'Lock Down Admin'
-3. Activate Fullestop Lock Down from your Plugins page. 
 
-= From WordPress.org =
+==Instalación==
 
-1. Download Lock Down Admin.
-2. Upload the 'fullestop-lock-down-admin' directory to your  '/wp-content/plugins/' directory, using your favorite method (ftp, sftp, scp, etc...)
-3. Activate Fullestop Lock Down Admin from your Plugins page.
+= Desde tu dashboard de WordPress  =
 
-= Once Activated =
+1. Visita 'Plugins > Add New'
+2. Buscar 'Lock Down Admin'
+3. Activa Fullestop Lock Down Admin desde tu pagina de Plugins . 
 
-1. It creates an Fullestop Lock Down menu in admin menu.
-2. Fullestop Lock-Down Admin plugin secure your WordPress admin panel. It locks the wp-admin url and if this plugin is activated then user can't login in the admin panel using wp-admin/wp-login default URL's.
+= Desde WordPress.org =
 
-= Once Configured =
+1. Descargar Lock Down Admin.
+2. Subir el 'fullestop-lock-down-admin' a tu directorio '/wp-content/plugins/' usa tu metod favorito (ftp, sftp, scp, etc...)
+3. Activa Fullestop Lock Down Admin desde tu pagina de Plugins .
 
-It locks the wp-admin url and if this plugin is activated then user can't login in the admin panel using wp-admin/wp-login default URL's.
+= Una vez Activado =
+
+1. Crea un Fullestop Lock Down en el menú admintrativo.
+2. Fullestop Lock-Down Admin plugin protege su panel de administración de WordPress. Bloquea la URL wp-admin y si este complemento está activado, entonces el usuario no puede iniciar sesión en el panel de administración utilizando la URL predeterminada de wp-admin/wp-login.
+
+
+= Una vez Configurado =
+
+Bloquea la URL wp-admin y si este complemento está activado, entonces el usuario no puede iniciar sesión en el panel de administración utilizando  la URL predeterminada wp-admin/wp-login .
 
 
 == Screenshots ==
-1. **Lock Down Admin** - checked if you want to hide the wp-admin url and write the new name using which you want to access your admin panel from now.
+1. **Lock Down Admin** - Marca la casilla si desea ocultar la url de wp-admin y escriba el nuevo nombre con el que desea acceder a su panel de administración a partir de ahora.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
