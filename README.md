@@ -29,8 +29,14 @@ Lock Down Admin plugin protege su panel de administración de WordPress. Bloquea
 = Desde WordPress.org =
 
 1. Descargar Lock Down Admin.
-2. Subir el 'fullestop-lock-down-admin' a tu directorio '/wp-content/plugins/' usa tu metod favorito (ftp, sftp, scp, etc...)
+2. Subir el 'fullestop-lock-down-admin' a tu directorio '/wp-content/plugins/' usa tu metodo favorito (ftp, sftp, scp, etc...)
 3. Activa Fullestop Lock Down Admin desde tu pagina de Plugins .
+
+= Desde Github ==
+1. Descarga el plugins 'Clone or Download'
+2. Download zip
+3. Subir 'fullestop-lock-down-admin' a '/wp-content/plugins/' usa tu metodo favorito (ftp, sftp, scp, etc...) o quiza quiera hacerlo desde el mismo wordpress desde Plugins > Add New' buscar el plugin y esperar a que carge o si tu servidor tiene instalado git solo haz un git clone https://github.com/junglaCODE/Fullestop_Lock_Down_Admin.git en tu directorio '/wp-content/plugins/'
+4. Activa Fullestop Lock Down Admin desde tu pagina de Plugins .
 
 = Una vez Activado =
 
